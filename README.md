@@ -1,3 +1,4 @@
+![logo](https://github.com/PragyaKumari02/PragyaKumari02/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pragya Kumari</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
